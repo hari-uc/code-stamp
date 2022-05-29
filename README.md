@@ -9,9 +9,6 @@ code-stamp is used to add the time and author stamp to your code file. also, you
 code-stamp supports all type of file extenstion.
 
 
-\!\[feature X\]\(images/feature-x.png\)
-
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
 
 ## Examples
 
