@@ -1,6 +1,6 @@
 {
   "name": "code-stamp",
-  "displayName": "code stamp",
+  "displayName": "code-stamp",
   "publisher": "Harikrishnan",
   "icon": "images/logocodestamp.png",
   "description": "",
@@ -20,7 +20,7 @@
     "commands": [
       {
         "command": "code-stamp.addstamp",
-        "title": "Add/Update Code stamp ⏱"
+        "title": "Add/Update code-stamp ⏱"
       },
       {
         "command": "code-stamp.updateAuthorName",
