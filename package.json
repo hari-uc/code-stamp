@@ -1,6 +1,8 @@
 {
   "name": "code-stamp",
 	"displayName": "code stamp",
+	"publisher": "Harikrishnan",
+	"icon": "images/extensionlogo.png",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
