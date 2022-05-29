@@ -8,11 +8,14 @@ code-stamp is used to add the time and author stamp to your code file. also, you
 
 code-stamp supports all type of file extenstion.
 
+[![hari-uc - code-stamp](https://img.shields.io/static/v1?label=hari-uc&message=code-stamp&color=blue&logo=github)](https://github.com/hari-uc/code-stamp "Go to GitHub repo")
+[![stars - code-stamp](https://img.shields.io/github/stars/hari-uc/code-stamp?style=social)](https://github.com/hari-uc/code-stamp)
+[![forks - code-stamp](https://img.shields.io/github/forks/hari-uc/code-stamp?style=social)](https://github.com/hari-uc/code-stamp)
 
 
-## Examples
+[![GitHub release](https://img.shields.io/github/release/hari-uc/code-stamp?include_prereleases=&sort=semver&color=blue)](https://github.com/hari-uc/code-stamp/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
-https://user-images.githubusercontent.com/89680646/170865697-fe0eaead-bc18-40c7-94c2-6d50cb404efe.mp4
 
 
 
@@ -29,10 +32,13 @@ https://user-images.githubusercontent.com/89680646/170865697-fe0eaead-bc18-40c7-
 
 4. To change the author name select Change Author Name.
 
+## Examples
+
+![extension](https://user-images.githubusercontent.com/89680646/170875082-71f62756-c14f-4767-8a15-957a8132d3d5.gif)
 
 ## Known Issues
 
-some extensions are not support (soon it will be fixed).
+some extension files are not supported (soon it will be fixed).
 
 
 ## Release Notes
@@ -41,6 +47,9 @@ This is an Initial Release of code-stamp.
 
 
 ### 1.0.0
+
+
+## Contributions are Welcomed
 
 
 
