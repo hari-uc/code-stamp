@@ -43,15 +43,13 @@ some extension files are not supported (soon it will be fixed).
 
 ## Release Notes
 
-This is an Initial Release of code-stamp.
 
-
-### 1.0.0
+### 0.1.0 - inital release
+### 0.2.0 - minor bug fix
+### 1.0.0 - feature update
 
 
 ## Contributions are Welcomed
-
-
 
 -----------------------------------------------------------------------------------------------------------
 
